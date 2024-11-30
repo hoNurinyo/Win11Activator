@@ -1,0 +1,16 @@
+C:\Users\hoNur\source\repos\Activator\bin\Release\net8.0-windows\Activator.exe
+C:\Users\hoNur\source\repos\Activator\bin\Release\net8.0-windows\Activator.deps.json
+C:\Users\hoNur\source\repos\Activator\bin\Release\net8.0-windows\Activator.runtimeconfig.json
+C:\Users\hoNur\source\repos\Activator\bin\Release\net8.0-windows\Activator.dll
+C:\Users\hoNur\source\repos\Activator\bin\Release\net8.0-windows\Activator.pdb
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\Activator.Form1.resources
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\Activator.csproj.GenerateResource.cache
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\Activator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\Activator.AssemblyInfoInputs.cache
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\Activator.AssemblyInfo.cs
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\Activator.csproj.CoreCompileInputs.cache
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\Activator.dll
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\refint\Activator.dll
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\Activator.pdb
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\Activator.genruntimeconfig.cache
+C:\Users\hoNur\source\repos\Activator\obj\Release\net8.0-windows\ref\Activator.dll
